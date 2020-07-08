@@ -48,7 +48,7 @@ class Articles {
   String _publishedAt;
   String _content;
 
-  Articles(
+  Articles(data,
       {Source source,
         String author,
         String title,
